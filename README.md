@@ -1,4 +1,4 @@
 AdvisorAnimals
 ==============
 
-GoogleJump Advisor Repo
+GoogleJump Advisor Repo. It's so... So!
