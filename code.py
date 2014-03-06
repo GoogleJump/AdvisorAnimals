@@ -4,8 +4,8 @@ def helloWorld():
 
 #def listBuilder():
   b = []
-#  for x in range(5):
-#    b.append(10 * x)
+  for x in range(5):
+    b.append(10 * x)
   return b
 
 for i in range(5):
