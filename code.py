@@ -1,7 +1,7 @@
 def helloWorld():
-  print "I'm just going to leave this right here."
+  print "We are in DEMO land!"
 
-for i in range(5):
+for i in range(10):
   helloWorld()
 print listBuilder()
 
@@ -11,4 +11,4 @@ def listBuilder():
     b.append(10 * x)
   return b
 
-print "[done]"
+print "[done, for real]"
